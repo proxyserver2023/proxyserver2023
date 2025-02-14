@@ -1,4 +1,4 @@
-### **🚀 Alamin Mahamud | Cloud Architecture **  
+### 🚀 Alamin Mahamud | Cloud Architecture  
 **🔹 Cloud | DevOps | SRE | Kubernetes | AWS | Platform Engineering**  
 
 Hey there! 👋 I'm **Alamin Mahamud**, a **Senior Cloud & DevOps Engineer** with over **8 years** of experience in **building scalable, reliable, and secure cloud platforms**. My expertise lies in **AWS, Kubernetes, Terraform, CI/CD, and cloud security**, and I'm passionate about **cloud architecture, networking, and AI-first technologies**.  
