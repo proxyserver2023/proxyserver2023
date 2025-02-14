@@ -1,6 +1,6 @@
-# 🚀 Alamin Mahamud | Senior Cloud & DevOps Engineer  
+# 🚀 Alamin Mahamud
 
-### **Cloud Architecture | DevOps, SRE Tooling | AI-Driven Infrastructure**  
+### Cloud Architecture | DevOps, SRE Tooling | AI-Driven Infrastructure
 
 I build **resilient, scalable, and cost-efficient cloud platforms** that drive real-world impact. Technology is a tool—my goal is to **solve problems that reduce human suffering** through **automation, reliability, and security**.  
 
