@@ -16,6 +16,7 @@ I build **resilient, scalable, and cost-efficient cloud platforms** that drive r
 ---
 
 ## **📊 Impact Highlights**  
+📌 **$20M+ ARR** – Generated through the platform.  
 📌 **$1M+ Cloud Cost Savings** – Driving efficiency at scale.  
 📌 **99.99% Uptime** – Architecting fault-tolerant systems.  
 📌 **SOC 2 Type II Compliance** – Security-first cloud operations.  
